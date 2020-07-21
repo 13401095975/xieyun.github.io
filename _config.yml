@@ -1,2 +1,3 @@
-  include:
-      README.md
+include:
+    README.md
+theme: jekyll-theme-cayman
