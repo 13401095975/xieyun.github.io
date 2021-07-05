@@ -1,4 +1,7 @@
 include:
     README.md
     two.md
+    netty.md
+    POI.md
+    quartz.md
 theme: jekyll-theme-cayman
